@@ -12,3 +12,4 @@ They go from really basic to more complex
 1. [Selectors](CSS/selectors/selectorsExercise.html)
 2. [Tic Tac Toe](CSS/tic-tac-toe/board.html)
 3. [Photo Grid](CSS/photo-grid/grid.html)
+4. [Blog](CSS/blog/blog.html)
