@@ -1,0 +1,22 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 10px;
+}
+
+body {
+	background-color: #2b2b3a;
+}
+
+p {
+	color: #A946B9;
+	font-family: 'Lato';
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 3px solid #A946B9;
+	width: 30%;
+	padding-bottom: 15px;
+}
