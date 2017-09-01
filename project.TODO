@@ -16,10 +16,14 @@ Web Development Bootcamp:
   --- ✄ -----------------------
   Bootstrap:
     ✔ Basics @done (17-09-01 19:22)
+
+    ✔ Grid layout @done (17-09-01 22:18)
     
-    ☐ Image gallery
-    
+    ✔ Image gallery @done (17-09-01 23:23)
+      bootstrap and fontawesome
+
     ☐ Purrfect match
+      Landing page for a imaginary startup company
 
   --- ✄ -----------------------
   Javascript:
