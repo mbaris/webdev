@@ -1,0 +1,83 @@
+Web Development Bootcamp:
+  --- ✄ -----------------------
+  HTML:
+    ☐ Reimplement signup form @after-bootstrap @after-jquery
+
+  --- ✄ -----------------------
+  CSS:
+    ☐ Reimplement tic tac toe @after-javascript
+    make it playable with clicks, alternate between X and O after each click
+    
+    ☐ Reimplement synthwave image gallery @after-bootstrap @after-jquery
+    use something like galleria and unsplash for images
+    
+    ☐ Reimplement corporate ipsum blog @after-bootstrap @after-jquery
+
+  --- ✄ -----------------------
+  Bootstrap:
+    ☐ Image gallery
+    
+    ☐ Purrfect match
+
+  --- ✄ -----------------------
+  Javascript:
+    ☐ Introduction
+    
+    ☐ Control flow
+    
+    ☐ Functions
+    
+    ☐ Arrays
+    
+    ☐ Objects
+  
+  --- ✄ -----------------------
+  DOM Manipulation:
+    ☐ Basic
+    
+    ☐ Advanced
+  
+  --- ✄ -----------------------
+  ☐ Color game project
+
+  --- ✄ -----------------------
+  jQuery:
+    ☐ Basic
+    
+    ☐ Advanced
+
+  --- ✄ -----------------------
+  ☐ Patatap clone
+
+  --- ✄ -----------------------
+  Backend:
+    ☐ basic
+    
+    ☐ Command Line
+    
+    ☐ Node.js
+    
+    ☐ Server Side Frameworks
+    
+    ☐ Express.js
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+ ✔ Synthwave photo grid @done (17-09-31 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ Comporate ipsum blog @done (17-09-31 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ tic tac toe @done (17-09-30 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ Intermediate @done (17-09-30 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ Google fonts @done (17-09-30 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ css selectors example @done (17-09-29 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ Google Chrome Developer Tools @done (17-09-29 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ Basic @done (17-09-29 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ TODO list @done (17-09-28 13:00) @project(Web Development Bootcamp / CSS)
+ ✔ Signup form @done (17-09-28 13:00) @project(Web Development Bootcamp / HTML)
+ ✔ Pokémon table @done (17-09-28 13:00) @project(Web Development Bootcamp / HTML)
+ ✔ img example @done (17-08-28 13:00) @project(Web Development Bootcamp / HTML)
+ ✔ Intermediate @done (17-08-28 13:00) @project(Web Development Bootcamp / HTML)
+ ✔ list example @done (17-08-27 13:00) @project(Web Development Bootcamp / HTML)
+ ✔ Mozilla Developer Network @done (17-08-27 13:00) @project(Web Development Bootcamp / HTML)
+ ✔ Intro to course @done (17-08-26 13:00) @project(Web Development Bootcamp)
+ ✔ Intro to Front end Development @done (17-08-26 13:00) @project(Web Development Bootcamp)
+ ✔ Basic @done (17-08-26 13:00) @project(Web Development Bootcamp / HTML)

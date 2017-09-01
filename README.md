@@ -2,6 +2,8 @@
 Assignments and exercises from webdev course on udemy by Colt Steele
 They go from really basic to more complex
 
+[TODO](project.TODO)
+
 # HTML
 1. [Lists](HTML/list.html)
 2. [Images](HTML/img.html)
