@@ -1,7 +1,7 @@
 # Web Developer Bootcamp Notes
 Assignments and exercises from webdev course on udemy by Colt Steele
 They go from really basic to more complex
-This also provides me a way to get used to Sublime text plugins like PlainTasks and Emmet
+This also provides me a way to get used to Sublime Text plugins like PlainTasks and Emmet
 
 [PlainTask TODO list](https://raw.githubusercontent.com/mbaris/webdev/master/project.TODO)
 
@@ -22,3 +22,4 @@ This also provides me a way to get used to Sublime text plugins like PlainTasks 
 2. [Navbar](Bootstrap/navbars/navbar.html)
 3. [Grid Layout](Bootstrap/grid-layout/grid.html)
 4. [Photo Gallery](Bootstrap/gallery/gallery.html)
+5. [Aurora Landing Page](Bootstrap/landing-page/landing.html)
